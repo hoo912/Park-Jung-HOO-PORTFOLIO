@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+@font-face{
+	font-family:'eg-font';
+	src: url('../fonts/bellasmith-38925819/Bellasmith\ Sans.woff'),
+      url('../fonts/bellasmith-38925819/Bellasmith\ Sans.otf');
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+/* @font-face{
+	font-family: 'ko-font';
+	src: url('../fonts/GmarketSansOTF/GmarketSansMedium.woff');
+} */
+@font-face{
+  font-family: 'main-font';
+  src: url('../fonts/OTF/LeferiBaseRegular.woff'),
+        url('../fonts/OTF/LeferiBaseRegular.otf');
+  font-style: normal;
+  font-weight: 400;
+}
+/* @font-face{
+  font-family: 'main-font';
+  src: url('../fonts/OTF/LeferiPointSpecial.woff'),
+        url('../fonts/OTF/LeferiPointSpecial.otf');
+  font-style: normal;
+  font-weight: 400;
+} */
+@font-face{
+  font-family: 'main-font';
+  src: url('../fonts/OTF/LeferiPointSpecialItalic.woff'),
+        url('../fonts/OTF/LeferiPointSpecialItalic.otf');
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'main-font';
+  src: url('../fonts/OTF/LeferiBaseBold.woff'),
+        url('../fonts/OTF/LeferiBaseBold.otf');
+  font-style: normal;
+  font-weight: 700;
+}
